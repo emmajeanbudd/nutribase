@@ -1,0 +1,1 @@
+﻿INSERT INTO item (item, calories, fat, cholesterol, sodium, carbs, sugar, protein) VALUES ('apple', 91, 273, 0, 910, 24, 19, 482);
