@@ -1,2 +1,2 @@
 # nutribase
-YOLO for c# class YALL #c#
+YOLO #c#
